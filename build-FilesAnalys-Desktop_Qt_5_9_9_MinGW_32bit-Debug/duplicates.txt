@@ -1,0 +1,144 @@
+-------------------Первый каталог------------------- 
+
+Исходный файл: app/WpfApp2_Secure/stream_list.json
+Дубликат: app/stream_list.json
+
+Исходный файл: app/WpfApp2_Secure/WpfApp2.pdb
+Дубликат: app/WpfApp2.pdb
+
+Исходный файл: build-FilesAnalys-Desktop_Qt_5_9_9_MinGW_32bit-Debug/.qmake.stash
+Дубликат: build-database-Desktop_Qt_5_9_9_MinGW_32bit-Debug/.qmake.stash
+
+Исходный файл: build-FilesAnalys-Desktop_Qt_5_9_9_MinGW_32bit-Debug/debug/moc_predefs.h
+Дубликат: build-database-Desktop_Qt_5_9_9_MinGW_32bit-Debug/debug/moc_predefs.h
+
+Исходный файл: build-music_store-Desktop_Qt_5_9_9_MinGW_32bit-Debug/.qmake.stash
+Дубликат: build-FilesAnalys-Desktop_Qt_5_9_9_MinGW_32bit-Debug/.qmake.stash
+
+Исходный файл: build-music_store-Desktop_Qt_5_9_9_MinGW_32bit-Debug/debug/moc_predefs.h
+Дубликат: build-FilesAnalys-Desktop_Qt_5_9_9_MinGW_32bit-Debug/debug/moc_predefs.h
+
+Исходный файл: db_script/db_script.sql
+Дубликат: 1234.txt
+
+Исходный файл: music_store/main.cpp
+Дубликат: FilesAnalys/main.cpp
+
+Исходный файл: Prolog/example.txt
+Дубликат: 4174.txt
+
+Исходный файл: serialization.abc
+Дубликат: Prolog/example.txt
+
+Исходный файл: serialization.txt
+Дубликат: serialization.abc
+
+-------------------Второй каталог------------------- 
+
+Исходный файл: RKSI/Мобильная разработка/Android/На отправку/Инд. задание/drawable-mdpi/arrow_left.png
+Дубликат: RKSI/Мобильная разработка/Android/На отправку/Инд. задание/drawable-hdpi/arrow_left.png
+
+Исходный файл: RKSI/Мобильная разработка/Android/На отправку/Инд. задание/drawable-mdpi/arrow_right.png
+Дубликат: RKSI/Мобильная разработка/Android/На отправку/Инд. задание/drawable-hdpi/arrow_right.png
+
+Исходный файл: RKSI/Мобильная разработка/Android/На отправку/Инд. задание/drawable-xhdpi/arrow_left.png
+Дубликат: RKSI/Мобильная разработка/Android/На отправку/Инд. задание/drawable-mdpi/arrow_left.png
+
+Исходный файл: RKSI/Мобильная разработка/Android/На отправку/Инд. задание/drawable-xhdpi/arrow_right.png
+Дубликат: RKSI/Мобильная разработка/Android/На отправку/Инд. задание/drawable-mdpi/arrow_right.png
+
+Исходный файл: RKSI/Мобильная разработка/Android/На отправку/Инд. задание/drawable-xxhdpi/arrow_left.png
+Дубликат: RKSI/Мобильная разработка/Android/На отправку/Инд. задание/drawable-xhdpi/arrow_left.png
+
+Исходный файл: RKSI/Мобильная разработка/Android/На отправку/Инд. задание/drawable-xxhdpi/arrow_right.png
+Дубликат: RKSI/Мобильная разработка/Android/На отправку/Инд. задание/drawable-xhdpi/arrow_right.png
+
+Исходный файл: RKSI/Мобильная разработка/Android/На отправку/Практ 3/layout/activity_main.xml
+Дубликат: RKSI/Мобильная разработка/Android/На отправку/Практ 2/activity_main.xml
+
+Исходный файл: RKSI/Мобильная разработка/Android/На отправку/Практ 3/Question.kt
+Дубликат: RKSI/Мобильная разработка/Android/На отправку/Практ 2/Question.kt
+
+Исходный файл: RKSI/Мобильная разработка/Android/На отправку/Практ 5/Question.kt
+Дубликат: RKSI/Мобильная разработка/Android/На отправку/Практ 3/Question.kt
+
+Исходный файл: RKSI/Серверная разработка ПО/SQL/Лабораторная работа №3 mysqli Бородин С. И/fon.jpg
+Дубликат: RKSI/server/fon.jpg
+
+Исходный файл: RKSI/Серверная разработка ПО/SQL/Лабораторная работа №3 pdo Бородин С. И/fon.jpg
+Дубликат: RKSI/Серверная разработка ПО/SQL/Лабораторная работа №3 mysqli Бородин С. И/fon.jpg
+
+Исходный файл: RKSI/Серверная разработка ПО/SQL/Лабораторная работа №3 pdo Бородин С. И/index.html
+Дубликат: RKSI/Серверная разработка ПО/SQL/Лабораторная работа №3 mysqli Бородин С. И/index.html
+
+Исходный файл: RKSI/Серверная разработка ПО/SQL/Лабораторная работа №4 Бородин С. И/authorise.php
+Дубликат: RKSI/server/authorise.php
+
+Исходный файл: RKSI/Серверная разработка ПО/SQL/Лабораторная работа №4 Бородин С. И/delete_record.php
+Дубликат: RKSI/server/delete_record.php
+
+Исходный файл: RKSI/Серверная разработка ПО/SQL/Лабораторная работа №4 Бородин С. И/fon.jpg
+Дубликат: RKSI/Серверная разработка ПО/SQL/Лабораторная работа №3 pdo Бородин С. И/fon.jpg
+
+Исходный файл: RKSI/Серверная разработка ПО/SQL/Лабораторная работа №4 Бородин С. И/gallery.php
+Дубликат: RKSI/server/gallery.php
+
+Исходный файл: RKSI/Серверная разработка ПО/SQL/Лабораторная работа №4 Бородин С. И/images/img1.jpg
+Дубликат: RKSI/server/images/img1.jpg
+
+Исходный файл: RKSI/Серверная разработка ПО/SQL/Лабораторная работа №4 Бородин С. И/images/img2.jpg
+Дубликат: RKSI/server/images/img2.jpg
+
+Исходный файл: RKSI/Серверная разработка ПО/SQL/Лабораторная работа №4 Бородин С. И/images/img3.jpg
+Дубликат: RKSI/server/images/img3.jpg
+
+Исходный файл: RKSI/Серверная разработка ПО/SQL/Лабораторная работа №4 Бородин С. И/images/img4.jpg
+Дубликат: RKSI/server/images/img4.jpg
+
+Исходный файл: RKSI/Серверная разработка ПО/SQL/Лабораторная работа №4 Бородин С. И/img_show.php
+Дубликат: RKSI/server/img_show.php
+
+Исходный файл: RKSI/Серверная разработка ПО/SQL/Лабораторная работа №4 Бородин С. И/logout.php
+Дубликат: RKSI/server/logout.php
+
+Исходный файл: RKSI/Серверная разработка ПО/SQL/Лабораторная работа №4 Бородин С. И/regisr.php
+Дубликат: RKSI/server/regisr.php
+
+Исходный файл: RKSI/Серверная разработка ПО/SQL/Лабораторная работа №4 Бородин С. И/save_record.php
+Дубликат: RKSI/server/save_record.php
+
+Исходный файл: RKSI/УП Кротенко Е. М/schema/businessinfo/Objects.local
+Дубликат: RKSI/RKSI Practica/schema1/businessinfo/Objects.local
+
+Исходный файл: RKSI/УП Кротенко Е. М/schema/ChangeRequests.local
+Дубликат: RKSI/RKSI Practica/schema1/ChangeRequests.local
+
+Исходный файл: RKSI/УП Кротенко Е. М/schema/mapping/DeletedMap_RM05745168-1A53-0080-28FB-3AF3557B7EF3.xml
+Дубликат: RKSI/RKSI Practica/schema1/mapping/DeletedMap_RM86F5834B-8CB1-6C53-E28B-12D9E3668C0A.xml
+
+Исходный файл: RKSI/УП Кротенко Е. М/schema/mapping/ExtendedMap.xml
+Дубликат: RKSI/RKSI Practica/schema1/mapping/ExtendedMap.xml
+
+Исходный файл: RKSI/УП Кротенко Е. М/schema/mapping/ExtendedMap_RM05745168-1A53-0080-28FB-3AF3557B7EF3.xml
+Дубликат: RKSI/RKSI Practica/schema1/mapping/ExtendedMap_RM86F5834B-8CB1-6C53-E28B-12D9E3668C0A.xml
+
+Исходный файл: RKSI/УП Кротенко Е. М/schema/pm/Objects.local
+Дубликат: RKSI/RKSI Practica/schema1/pm/Objects.local
+
+Исходный файл: RKSI/УП Кротенко Е. М/schema/rdbms/schema_RDBMSSites.xml
+Дубликат: RKSI/RKSI Practica/schema1/rdbms/schema1_RDBMSSites.xml
+
+Исходный файл: Tor Browser/Browser/TorBrowser/Data/Browser/profile.default/parent.lock
+Дубликат: Tor Browser/Browser/TorBrowser/Data/Browser/profile.default/AlternateServices.txt
+
+Исходный файл: Tor Browser/Browser/TorBrowser/Data/Browser/profile.default/SecurityPreloadState.txt
+Дубликат: Tor Browser/Browser/TorBrowser/Data/Browser/profile.default/parent.lock
+
+Исходный файл: Tor Browser/Browser/TorBrowser/Data/Browser/profile.default/TRRBlacklist.txt
+Дубликат: Tor Browser/Browser/TorBrowser/Data/Browser/profile.default/SecurityPreloadState.txt
+
+Исходный файл: Tor Browser/Browser/TorBrowser/Data/Tor/lock
+Дубликат: Tor Browser/Browser/TorBrowser/Data/Browser/profile.default/TRRBlacklist.txt
+
+Исходный файл: Tor Browser/Browser/TorBrowser/Data/Tor/torrc.orig.1
+Дубликат: Tor Browser/Browser/TorBrowser/Data/Tor/lock
